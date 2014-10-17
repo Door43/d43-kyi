@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kyi:home|Door43 (kyi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kyi|d43-kyi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kyi/archive/master.zip|d43-kyi.zip]]
+
+**Recent Changes**
+{{changes>ns = kyi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kyi|Ethnologue data]]
+
